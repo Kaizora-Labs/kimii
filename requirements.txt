@@ -1,0 +1,4 @@
+groq
+httpx==0.24.1
+discord.py==2.3.2
+python-dotenv
