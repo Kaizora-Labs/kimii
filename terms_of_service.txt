@@ -1,0 +1,33 @@
+Terms of Service – Kimii Discord Bot
+Effective Date: May 21, 2025
+
+1. Acceptance of Terms  
+By inviting or interacting with Kimii, you accept these Terms of Service and our Privacy Policy. If you do not agree, do not use the bot.
+
+2. Description of Service  
+Kimii provides AI-generated responses, utility commands (like ping), and casual conversation using Groq’s language models.
+
+3. User Conduct  
+You agree not to:  
+- Spam, abuse, or overload the bot.  
+- Use the bot to promote illegal or harmful content.  
+- Exploit or reverse-engineer the bot.  
+- Impersonate the bot or its developers.
+
+4. Message Handling & Memory  
+Kimii stores user messages temporarily for contextual understanding, with memory retained for up to 1 hour.
+
+5. Service Availability  
+The bot is provided “as is” with no guarantees of uptime, accuracy, or reliability.
+
+6. Termination  
+We reserve the right to block users, remove the bot from servers, or terminate services at our discretion.
+
+7. Limitation of Liability  
+Kimii and Kaizora Labs are not liable for any damages, losses, or disruptions arising from use of the bot.
+
+8. Changes to Terms  
+These Terms may change at any time. Continued use of the bot after updates implies acceptance of the new terms.
+
+9. Contact  
+For questions or concerns, contact: kaizoralabs@gmail.com
