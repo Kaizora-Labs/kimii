@@ -1,0 +1,32 @@
+Privacy Policy – Kimii Discord Bot
+Effective Date: May 21, 2025
+
+1. Data Collection  
+Kimii collects the following data when used:
+- User ID, server ID, and message content for contextual responses.
+- Interaction logs for command processing and bot improvement.
+
+2. Purpose of Data Use  
+Collected data is used to:
+- Generate AI responses using Groq models.
+- Provide utility functions (like ping).
+- Maintain temporary memory per user for better contextual replies.
+
+3. Data Storage  
+- Messages are stored in memory temporarily (up to 1 hour).
+- No messages or user data are stored permanently or shared with third parties.
+
+4. Data Sharing  
+We do not share your data with any third-party services. Only Groq API is used to process the content to generate responses.
+
+5. User Rights  
+You may remove Kimii from your server at any time. This immediately stops all data collection.
+
+6. Security  
+We follow best practices to protect temporary user data in memory during processing.
+
+7. Changes to Privacy Policy  
+We may update this policy at any time. Continued use of the bot after changes implies acceptance of the updated policy.
+
+8. Contact  
+For questions or concerns, contact: kaizoralabs@gmail.com
